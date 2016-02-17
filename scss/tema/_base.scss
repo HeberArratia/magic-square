@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h2{
+	margin-top: 11px;
+	margin-bottom: 18px;
+}
+
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+// Imágenes responsive
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
